@@ -4,7 +4,7 @@ Download manga from [manganelo](https://manganelo.com/) and save it locally as p
 * For general usage download the exe file from [releases](https://github.com/Necro-Mancer-94540/Manga-Downloader-Manganelo/releases/tag/exe) section.
 For development purpose use `git clone git@github.com:Necro-Mancer-94540/Manga-Downloader-Manganelo.git`
 * Run the code or 'exe' file and enter the path where you want to save the manga:
-![](https://drive.google.com/uc?id=1OUCQFMm7FkbvlQelr5grtHs2KhLhJ7dk)
+![](https://i.ibb.co/T4d6h54/uc-id-1-OUCQFMm7-Fkbvl-Qelr5grt-Hs2-Kh-Lh-J7dk.png)
 * If chromedriver is not present in the provided directory, it will be downloaded.
 ![](https://drive.google.com/uc?id=1XDbUh3OF0P1YW-7XvJuhgyGMWB7B49Tp)
 * Allow access if firewall blocks the s/w:

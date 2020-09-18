@@ -6,13 +6,13 @@ For development purpose use `git clone git@github.com:Necro-Mancer-94540/Manga-D
 * Run the code or 'exe' file and enter the path where you want to save the manga:
 ![](https://i.ibb.co/T4d6h54/uc-id-1-OUCQFMm7-Fkbvl-Qelr5grt-Hs2-Kh-Lh-J7dk.png)
 * If chromedriver is not present in the provided directory, it will be downloaded.
-![](https://drive.google.com/uc?id=1XDbUh3OF0P1YW-7XvJuhgyGMWB7B49Tp)
+![](https://i.ibb.co/bJcBmys/uc-id-1-XDb-Uh3-OF0-P1-YW-7-Xv-Juhgy-GMWB7-B49-Tp.png)
 * Allow access if firewall blocks the s/w:
-![](https://drive.google.com/uc?id=1Pu6GtLle04PkqshGGwCLhzfJZpltSmn1)
+![](https://i.ibb.co/mhVHk69/uc-id-1-Pu6-Gt-Lle04-Pkqsh-GGw-CLhzf-JZplt-Smn1.png)
 * A small browser will open:
-![](https://drive.google.com/uc?id=1gRv-Vz-0hYt1hCfY0yKg0hkn4oK9uC2r)
+![](https://i.ibb.co/JzS31jV/uc-id-1g-Rv-Vz-0h-Yt1h-Cf-Y0y-Kg0hkn4o-K9u-C2r.png)
 * Copy the manga link from [manganelo](https://manganelo.com/):
-![](https://drive.google.com/uc?id=17MbwJZNC5-ijNCiU1CtyOX1NKrpNSrcA)
+![](https://i.ibb.co/8X8vgr9/uc-id-17-Mbw-JZNC5-ij-NCi-U1-Cty-OX1-NKrp-NSrc-A.jpg)
 * And paste it in the s/w:
 ![](https://drive.google.com/uc?id=1kYE8qjTvCtpbEWvwXx8NBy3_BWLGpiZz)
 * Downloading will start:

@@ -22,6 +22,6 @@ For development purpose use `git clone git@github.com:Necro-Mancer-94540/Manga-D
 * Enjoy!
 ### Note
 1. The chromedriver will only be downloaded when using s/w for the first time or if the directoy is changed.
-2. You can ignore the warnings that are displayed.
+2. You can ignore all the warnings if you need that are displayed.
 3. Each pdf is a seperate chapter of the manga.
 4. You can sort the 'manga' folder by time/date to get the chapters in chronological order.

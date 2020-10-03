@@ -15,7 +15,7 @@ For development purpose use `git clone git@github.com:Necro-Mancer-94540/Manga-D
 ![](https://i.ibb.co/8X8vgr9/uc-id-17-Mbw-JZNC5-ij-NCi-U1-Cty-OX1-NKrp-NSrc-A.jpg)
 * And paste it in the s/w:  
 ![](https://i.ibb.co/d09DbdF/uc-id-1k-YE8qj-Tv-Ctpb-EWvw-Xx8-NBy3-BWLGpi-Zz.png)
-* Downloading will start:  
+* Downloading will start soon:  
 ![](https://i.ibb.co/bmqB2z9/uc-id-1l-Ze-GWui-HLxtw022-TG3j1-Oyc-Jvg-Zc-Af-QV.png)
 * Close the s/w after download is complete and open 'manga' folder in the same directory:  
 ![](https://i.ibb.co/KrkxxvY/uc-id-1pde960-ZXrn-Df4-Q-RDy-UOKtrsw-I-v-Q8-G.png)

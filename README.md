@@ -25,3 +25,4 @@ For development purpose use `git clone git@github.com:Necro-Mancer-94540/Manga-D
 2. You can ignore the warnings that are displayed.
 3. Each pdf is a seperate chapter of the manga.
 4. You can sort the 'manga' folder by time/date to get the chapters in chronological order.
+5. Chrome version [85](https://www.google.com/chrome/) is required to run the s/w.

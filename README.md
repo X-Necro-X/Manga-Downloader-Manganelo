@@ -1,6 +1,7 @@
 # Manga-Downloader-Manganelo
 Download manga from [manganelo](https://manganelo.com/) and save it locally as pdf.
 ## How to use?
+* This app currently supports Chrome version [88](https://www.google.com/chrome/). 
 * For general usage download the exe file from [releases](https://github.com/Necro-Mancer-94540/Manga-Downloader-Manganelo/releases/tag/exe) section.
 For development purpose use `git clone git@github.com:Necro-Mancer-94540/Manga-Downloader-Manganelo.git`
 * Run the code or 'exe' file and enter the path where you want to save the manga:  

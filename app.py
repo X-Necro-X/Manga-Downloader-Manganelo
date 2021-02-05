@@ -1,3 +1,9 @@
+
+# Necro(ネクロ)
+# sidmishra94540@gmail.com
+
+# variables
+CHROMEDRIVER_ID = '1qJaeVR7t2WPwhgPz6xrKKnCEVlSUmNtO'
 # imports
 import os, time, requests, PIL.Image, selenium.webdriver, selenium.webdriver.support.ui, selenium.webdriver.support.expected_conditions, selenium.webdriver.common.by
 base_path = input('Path to manga folder: ').strip()
@@ -10,9 +16,9 @@ options.add_argument('window-size=0,0')
 options.add_experimental_option('prefs', {'profile.default_content_setting_values.automatic_downloads': 1, 'download.default_directory': base_path+'\\downloads'})
 # download chrome driver if not present
 if not(os.path.exists(base_path+'\\chromedriver.exe')):
-    print('Downloading chromedriver.exe(9.16MB)...')
+    print('Downloading chromedriver.exe...')
     with open(base_path+'\\chromedriver.exe', 'wb') as exe:
-        exe.write(requests.get('https://drive.google.com/uc?id=1rbpJrnDiF37tApPro29pymC9WHY_P7xz').content)
+        exe.write(requests.get('https://drive.google.com/uc?id='+CHROMEDRIVER_ID).content)
     print('Download Complete!')
 try:
     driver = selenium.webdriver.Chrome(executable_path=base_path+'\\chromedriver.exe', options = options)
@@ -71,7 +77,7 @@ try:
         pdf = []
         driver.get(chapter[1])
         # extracting image urls
-        images = list(map(lambda x: x.get_attribute('src'), driver.find_elements_by_tag_name('img')[1:-1]))
+        images = list(filter(lambda x: 'mangakakalot' in x , map(lambda x: x.get_attribute('src'), driver.find_elements_by_tag_name('img'))))
         for image in range(len(images)):
             # adding 00 and 0 before single and double digit image numbers respectively
             name = '00'+str(image) if image<10 else '0'+str(image) if image<100 else str(image)

@@ -1,3 +1,6 @@
+# Necro(ネクロ)
+# sidmishra94540@gmail.com
+
 # imports
 import os, time, requests, PIL.Image, selenium.webdriver, selenium.webdriver.support.ui, selenium.webdriver.support.expected_conditions, selenium.webdriver.common.by
 base_path = input('Path to manga folder: ').strip()
